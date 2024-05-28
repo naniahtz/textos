@@ -1,0 +1,11 @@
+.titulo{
+    color: #0c1c54;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 6vw;
+    text-align: center;
+    margin-top: 2cm;
+    margin-bottom: 2cm;
+}
+body{
+    background-color: #bdbcbf;
+}
